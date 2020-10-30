@@ -4,12 +4,12 @@ Orange
 Lemon
 Pamplemousse
 Citron
-
+=============> Modified
 Banana
 Ranjaly
 Plantin
 Mavokely
-
+============> Modified
 Other fruits
 Mangoes
 Combava
@@ -17,14 +17,3 @@ Apple
 Litchies
 
 
-
-
-
-
-
-
-Testing the gBranches:
-Adding meats:
-Pig meats
-Beef meats
-Chicken meats
