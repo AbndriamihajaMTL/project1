@@ -4,14 +4,20 @@ Orange
 Lemon
 Pamplemousse
 Citron
-
+=============> Modified
 Banana
 Ranjaly
 Plantin
 Mavokely
-
+============> Modified
 Other fruits
 Mangoes
 Combava
 Apple
 Litchies
+
+Legumes
+Tomatoes
+Poivrons
+Carottes
+Poireaux
